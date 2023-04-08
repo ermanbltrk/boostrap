@@ -1,0 +1,39 @@
+.container {
+    height: 70px;
+    width: 100%;
+    background-color: #333;
+  }
+
+  .container a{
+    color: white;
+  }
+
+  .header-link h2 {
+    color: red;
+  }
+  
+  body{
+    background-color: #E9ECEF;
+  }
+
+  .jumbotron {
+    text-align: center;
+  }
+  
+  .alet {
+    text-align: center;
+  }
+
+  .container h4 {
+    color: green;
+    margin-top: 30px;
+  }
+
+  ul{
+    text-align: center;
+  }
+  
+  .card {
+    margin-top: 100px;
+    text-align: center;
+  }
